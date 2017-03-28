@@ -1,0 +1,21 @@
+{
+  "name": "recipe-box",
+  "description": "class work angular day 2",
+  "main": "",
+  "authors": [
+    "phil & charlie"
+  ],
+  "license": "mit",
+  "keywords": [
+    "fun"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
